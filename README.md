@@ -1,6 +1,6 @@
 # opt.io - README
 
-opt.io is a MATLAB-based tool that will help you solve basic topology optimization problems, using topology optimization source code modified from Ferrari *et* Sigmund's [2020 paper](https://link.springer.com/article/10.1007/s00158-020-02629-w).
+opt.io is a MATLAB-based tool that will help you solve basic topology optimization problems, using topology optimization source code modified from Ferrari *et* Sigmund's [2020 paper](https://link.springer.com/article/10.1007/s00158-020-02629-w). It was originally submitted as a final project to Harvard's CS50 course, and has been reuploaded here for public access.
 
 Here, we will 1) run through the setup to get you started and 2) explain the tool's usage. For a brief run-through of the code in video format, please refer to [this](https://youtu.be/LlOsrTvblJs) YouTube video.
 

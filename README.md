@@ -80,7 +80,7 @@ into the MATLAB command line, or go to the "Editor" tab and click "Run".
 
 Below is a figure visualizing how indices relate to 3D geometry:
 
-![](./Indices.PNG "Indices")
+![](./Images/Indices.PNG "Indices")
 
 *Fig. 1. Visualization of how indices correspond to 3D geometry, to aid load/constraint selection. This example constrains the ZY face and applies a load to the furthest bottom edge with the following settings:*
 
